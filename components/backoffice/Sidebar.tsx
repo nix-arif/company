@@ -8,8 +8,8 @@ const Sidebar = () => {
         Logo
       </Link>
       <div className="space-y-3 flex flex-col">
-        <Link href="#">Dashboard</Link>
-        <Link href="#">Catalogue</Link>
+        <Link href="/dashboard">Dashboard</Link>
+        <Link href="/catalogue">Catalogue</Link>
         <Link href="#">Customers</Link>
         <Link href="#">Markets</Link>
         <Link href="#">Farmers</Link>
